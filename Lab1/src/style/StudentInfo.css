@@ -1,0 +1,29 @@
+h1 {
+  font-size: 36px;
+  margin: 12px 0 22px;
+  font-weight: 900;
+  line-height: 1.2;
+  letter-spacing: 0.5px;
+  color: #0f172a;
+  text-shadow: none;
+  opacity: 1;
+  filter: none;
+}
+
+.dark h1 {
+  color: #ffffff;
+}
+
+p {
+  font-size: 17px;
+  margin: 10px 0;
+  color: inherit;
+}
+
+strong {
+  color: #2563eb;
+}
+
+.dark strong {
+  color: #93c5fd;
+}
